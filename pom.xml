@@ -30,7 +30,7 @@
     <curator.version>4.3.0</curator.version>
     <caffeine.version>2.6.2</caffeine.version>
     <h2.version>1.4.197</h2.version>
-    <jgit.version>5.0.3.201809091024-r</jgit.version>
+    <jgit.version>5.13.3.202401111512-r</jgit.version>
     <jsch.version>0.1.55</jsch.version>
     <docker-java.version>3.3.4</docker-java.version>
     <cron-utils.version>9.1.6</cron-utils.version>
